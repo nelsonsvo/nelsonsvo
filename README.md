@@ -1,7 +1,9 @@
 ### Hi there, I'm Nelson - A Junior Software Developer👋
 
 
-![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=dark)
+![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerowley&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools:
 
