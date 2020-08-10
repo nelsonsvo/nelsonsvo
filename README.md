@@ -2,11 +2,11 @@
 
 
 ### My Stats
-![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=dark)
+![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=prussia)
 <br>
 
 ### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrowley&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrowley&theme=prussia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
