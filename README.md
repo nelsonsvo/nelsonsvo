@@ -1,5 +1,8 @@
 ### My Stats
 ![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=prussian)
+<br>
+
+### My Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrowley&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
