@@ -1,4 +1,4 @@
-![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true&theme=light) <br>
+![nrowley github stats](https://github-readme-stats.vercel.app/api?username=nrowley&show_icons=true) <br>
 
 ### 💭 I mainly code in...
 - C#
