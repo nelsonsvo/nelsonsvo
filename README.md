@@ -6,6 +6,8 @@
 - Java
 
 ### ✏️ I want to learn...
-- ASP.NET
-- Swift/IOS development
 - React
+- Redux
+
+### 🎓 I want to master...
+- MERN full stack development
