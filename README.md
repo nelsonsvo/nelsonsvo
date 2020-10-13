@@ -11,4 +11,4 @@
 - ASP.NET
 
 ### 🎓 I want to master...
-- MERN full stack development
+- MERN Full Stack development
