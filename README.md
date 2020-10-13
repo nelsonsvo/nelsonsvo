@@ -8,6 +8,7 @@
 ### ✏️ I want to learn...
 - React
 - Redux
+- ASP.NET
 
 ### 🎓 I want to master...
 - MERN full stack development
