@@ -7,7 +7,4 @@
 ### ✏️ I want to learn...
 - React
 - TypeScript
-- .NET
-
-### 🎓 I want to master...
-- MERN Full Stack development
+- GraphQL
