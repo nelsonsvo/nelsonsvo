@@ -8,3 +8,4 @@
 - React
 - TypeScript
 - GraphQL
+- Next.js
